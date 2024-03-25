@@ -1,3 +1,6 @@
+this is a training project for css grid.
+This project is made only by html and css.
+
 <h1>web preview</h1>
 
 ![](preview/Macbook-Air-.png)
